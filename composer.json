@@ -1,0 +1,17 @@
+{
+    "name": "icube-mage/magento2-hyvahigienis",
+    "type": "project",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "icube-mage",
+            "email": "sales@icube.us"
+        }
+    ],
+    "autoload": {
+        "files": [],
+        "psr-4": {
+            "Icube\\": ["src"]
+        }
+    }
+}
